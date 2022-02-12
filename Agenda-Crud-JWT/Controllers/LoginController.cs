@@ -27,9 +27,6 @@ namespace Agenda_Crud_JWT.Controllers
         [HttpPost]
         public IActionResult Authenticate([FromBody] Login login)
         {
-
-            //JWTAuthenticationManager.users.Add(login.Email, login.Password);
-
             var token = _iJWTAuthenticationManager.Authenticate(login.Email, login.Password);
 
             if (token is null) { return Unauthorized(); }
