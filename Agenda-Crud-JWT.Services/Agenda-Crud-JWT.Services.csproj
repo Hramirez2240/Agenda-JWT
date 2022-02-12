@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Agenda_Crud_JWT.Services</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Agenda-Crud-JWT.Bl\Agenda-Crud-JWT.Bl.csproj" />
+    <ProjectReference Include="..\Agenda-Crud-JWT.Core\Agenda-Crud-JWT.Core.csproj" />
+    <ProjectReference Include="..\Agenda-Crud-JWT.Model\Agenda-Crud-JWT.Model.csproj" />
+  </ItemGroup>
+
+</Project>

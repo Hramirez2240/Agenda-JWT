@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "911f6c06-60e8-4a78-8314-736a1d34a78c": {
+      "ProjectGuid": "911f6c06-60e8-4a78-8314-736a1d34a78c",
+      "DisplayName": "Agenda-Crud-JWT.Api",
+      "ColorIndex": 0
+    },
+    "80d4291c-1357-41e7-b6e2-7c24e2c9808e": {
+      "ProjectGuid": "80d4291c-1357-41e7-b6e2-7c24e2c9808e",
+      "DisplayName": "Agenda-Crud-JWT.Model",
+      "ColorIndex": 1
+    },
+    "f0161b1f-a041-48d9-bbfd-c4fe217cab7b": {
+      "ProjectGuid": "f0161b1f-a041-48d9-bbfd-c4fe217cab7b",
+      "DisplayName": "Agenda-Crud-JWT.Services",
+      "ColorIndex": 2
+    },
+    "2550914d-2dbd-4908-bc67-53d52da3390b": {
+      "ProjectGuid": "2550914d-2dbd-4908-bc67-53d52da3390b",
+      "DisplayName": "Agenda-Crud-JWT.Bl",
+      "ColorIndex": 3
+    },
+    "e03f29e2-21a9-4d4d-942a-4a6bbb8f1601": {
+      "ProjectGuid": "e03f29e2-21a9-4d4d-942a-4a6bbb8f1601",
+      "DisplayName": "Agenda-Crud-JWT.Core",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

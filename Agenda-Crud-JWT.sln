@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agenda-Crud-JWT.Api", "Agenda-Crud-JWT\Agenda-Crud-JWT.Api.csproj", "{911F6C06-60E8-4A78-8314-736A1D34A78C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agenda-Crud-JWT.Model", "Agenda-Crud-JWT.Model\Agenda-Crud-JWT.Model.csproj", "{80D4291C-1357-41E7-B6E2-7C24E2C9808E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agenda-Crud-JWT.Services", "Agenda-Crud-JWT.Services\Agenda-Crud-JWT.Services.csproj", "{F0161B1F-A041-48D9-BBFD-C4FE217CAB7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agenda-Crud-JWT.Bl", "Agenda-Crud-JWT.Bl\Agenda-Crud-JWT.Bl.csproj", "{2550914D-2DBD-4908-BC67-53D52DA3390B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agenda-Crud-JWT.Core", "Agenda-Crud-JWT.Core\Agenda-Crud-JWT.Core.csproj", "{E03F29E2-21A9-4D4D-942A-4A6BBB8F1601}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{911F6C06-60E8-4A78-8314-736A1D34A78C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{911F6C06-60E8-4A78-8314-736A1D34A78C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{911F6C06-60E8-4A78-8314-736A1D34A78C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{911F6C06-60E8-4A78-8314-736A1D34A78C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80D4291C-1357-41E7-B6E2-7C24E2C9808E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80D4291C-1357-41E7-B6E2-7C24E2C9808E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80D4291C-1357-41E7-B6E2-7C24E2C9808E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80D4291C-1357-41E7-B6E2-7C24E2C9808E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0161B1F-A041-48D9-BBFD-C4FE217CAB7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0161B1F-A041-48D9-BBFD-C4FE217CAB7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0161B1F-A041-48D9-BBFD-C4FE217CAB7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0161B1F-A041-48D9-BBFD-C4FE217CAB7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2550914D-2DBD-4908-BC67-53D52DA3390B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2550914D-2DBD-4908-BC67-53D52DA3390B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2550914D-2DBD-4908-BC67-53D52DA3390B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2550914D-2DBD-4908-BC67-53D52DA3390B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E03F29E2-21A9-4D4D-942A-4A6BBB8F1601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E03F29E2-21A9-4D4D-942A-4A6BBB8F1601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E03F29E2-21A9-4D4D-942A-4A6BBB8F1601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E03F29E2-21A9-4D4D-942A-4A6BBB8F1601}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F68D70B4-4D87-443D-A04E-40711DE4F04D}
+	EndGlobalSection
+EndGlobal
