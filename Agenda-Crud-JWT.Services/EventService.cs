@@ -28,9 +28,9 @@ namespace Agenda_Crud_JWT.Services
         {
             var entity = _mapper.Map<Event>(dto);
 
-            var equalDates = DateService.EqualDates(_dbset, entity);
+            var equalDates = DateService.IsEqualDates(_dbset, entity);
 
-            var compareDates = DateService.CompareDates(entity);
+            var compareDates = DateService.IsEarlyDate(entity);
 
             if (equalDates || compareDates)
             {

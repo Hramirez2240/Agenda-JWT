@@ -55,8 +55,6 @@ namespace Agenda_Crud_JWT
 
             });
 
-            services.AddScoped<IJWTAuthenticationManager, JWTAuthenticationManager>();
-
             services.AddServiceRegistry();
 
             services.Configure<ConnectionStrings>(Configuration.GetSection("ConnectionStrings"));

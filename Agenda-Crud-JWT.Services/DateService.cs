@@ -9,7 +9,7 @@ namespace Agenda_Crud_JWT.Services
 {
     public class DateService
     {
-        public static bool EqualDates(DbSet<Event> _dbset, Event entity)
+        public static bool IsEqualDates(DbSet<Event> _dbset, Event entity)
         {
             var items = _dbset.Select(x => x.Date);
 
@@ -25,7 +25,7 @@ namespace Agenda_Crud_JWT.Services
             return false;
         }
 
-        public static bool CompareDates(Event entity)
+        public static bool IsEarlyDate(Event entity)
         {
             var dateRest = DateTime.Compare(entity.Date, DateTime.Now);
             if (dateRest < 0)
