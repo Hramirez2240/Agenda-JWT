@@ -17,6 +17,7 @@ using Microsoft.OpenApi.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -35,6 +36,9 @@ namespace Agenda_Crud_JWT
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+
+            services.Configure<ConnectionStrings>(Configuration.GetSection("ConnectionStrings"));
+            services.AddDbContext<ApplicationDbContext>(options => options.UseSqlite(Configuration.GetConnectionString("DefaultConnection")));
 
             services.AddAuthentication(x =>
             {
@@ -56,8 +60,6 @@ namespace Agenda_Crud_JWT
             });
 
             services.AddServiceRegistry();
-
-            services.Configure<ConnectionStrings>(Configuration.GetSection("ConnectionStrings"));
 
             services.AddSwaggerGen(c =>
             {
@@ -96,17 +98,26 @@ namespace Agenda_Crud_JWT
 
             var connectionString = Configuration.GetConnectionString("DefaultConnection");
 
-            services.AddDbContext<ApplicationDbContext>(op => op.UseSqlServer(connectionString, b => b.MigrationsAssembly("Agenda-Crud-JWT.Api")));
+            services.AddDbContext<ApplicationDbContext>(op => op.UseSqlite(connectionString));
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
+            app.UseSwagger(c =>
+            {
+                c.PreSerializeFilters.Add((swagger, httpReq) => {
+                    var server = new OpenApiServer() { Url = $"{httpReq.Scheme}://{httpReq.Host.Value}" };
+                    swagger.Servers = new List<OpenApiServer>() { server };
+                });
+            });
+            app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Agenda-Crud-JWT v1"));
+
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
                 app.UseSwagger();
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Agenda-Crud-JWT v1"));
             }
 
             app.UseHttpsRedirection();

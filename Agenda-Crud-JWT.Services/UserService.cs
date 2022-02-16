@@ -17,8 +17,6 @@ namespace Agenda_Crud_JWT.Services
 
     public class UserService : BaseService<User, UserDto>, IUserService
     {
-        //public static List<string> toAddress = new List<string> {};
-
         public UserService(IApplicationDbContext context, IMapper mapper) : base(context, mapper)
         {
             

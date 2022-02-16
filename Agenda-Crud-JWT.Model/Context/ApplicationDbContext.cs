@@ -6,8 +6,10 @@ using System.Text;
 
 namespace Agenda_Crud_JWT.Model.Context
 {
+
     public class ApplicationDbContext : DbContext, IApplicationDbContext
     {
+
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {
 

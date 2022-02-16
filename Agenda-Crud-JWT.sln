@@ -3,15 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agenda-Crud-JWT.Api", "Agenda-Crud-JWT\Agenda-Crud-JWT.Api.csproj", "{911F6C06-60E8-4A78-8314-736A1D34A78C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Agenda-Crud-JWT.Api", "Agenda-Crud-JWT\Agenda-Crud-JWT.Api.csproj", "{911F6C06-60E8-4A78-8314-736A1D34A78C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agenda-Crud-JWT.Model", "Agenda-Crud-JWT.Model\Agenda-Crud-JWT.Model.csproj", "{80D4291C-1357-41E7-B6E2-7C24E2C9808E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Agenda-Crud-JWT.Model", "Agenda-Crud-JWT.Model\Agenda-Crud-JWT.Model.csproj", "{80D4291C-1357-41E7-B6E2-7C24E2C9808E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agenda-Crud-JWT.Services", "Agenda-Crud-JWT.Services\Agenda-Crud-JWT.Services.csproj", "{F0161B1F-A041-48D9-BBFD-C4FE217CAB7B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Agenda-Crud-JWT.Services", "Agenda-Crud-JWT.Services\Agenda-Crud-JWT.Services.csproj", "{F0161B1F-A041-48D9-BBFD-C4FE217CAB7B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agenda-Crud-JWT.Bl", "Agenda-Crud-JWT.Bl\Agenda-Crud-JWT.Bl.csproj", "{2550914D-2DBD-4908-BC67-53D52DA3390B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Agenda-Crud-JWT.Bl", "Agenda-Crud-JWT.Bl\Agenda-Crud-JWT.Bl.csproj", "{2550914D-2DBD-4908-BC67-53D52DA3390B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agenda-Crud-JWT.Core", "Agenda-Crud-JWT.Core\Agenda-Crud-JWT.Core.csproj", "{E03F29E2-21A9-4D4D-942A-4A6BBB8F1601}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Agenda-Crud-JWT.Core", "Agenda-Crud-JWT.Core\Agenda-Crud-JWT.Core.csproj", "{E03F29E2-21A9-4D4D-942A-4A6BBB8F1601}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlertEvent", "AlertEvent\AlertEvent.csproj", "{ECC38A82-00AD-4B5D-B65C-EF1034708379}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agenda-Crud-JWT.Tests", "Agenda-Crud-JWT.Tests\Agenda-Crud-JWT.Tests.csproj", "{28F5CD94-F9DB-4FA9-A0B0-B0E1E69D29E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{E03F29E2-21A9-4D4D-942A-4A6BBB8F1601}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E03F29E2-21A9-4D4D-942A-4A6BBB8F1601}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E03F29E2-21A9-4D4D-942A-4A6BBB8F1601}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECC38A82-00AD-4B5D-B65C-EF1034708379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECC38A82-00AD-4B5D-B65C-EF1034708379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECC38A82-00AD-4B5D-B65C-EF1034708379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECC38A82-00AD-4B5D-B65C-EF1034708379}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28F5CD94-F9DB-4FA9-A0B0-B0E1E69D29E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28F5CD94-F9DB-4FA9-A0B0-B0E1E69D29E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28F5CD94-F9DB-4FA9-A0B0-B0E1E69D29E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28F5CD94-F9DB-4FA9-A0B0-B0E1E69D29E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

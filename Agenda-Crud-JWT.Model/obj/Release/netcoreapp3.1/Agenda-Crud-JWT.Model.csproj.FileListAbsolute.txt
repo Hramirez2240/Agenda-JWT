@@ -1,0 +1,16 @@
+C:\Users\hrami\Desktop\WorkShop - Solvex\Agenda-Crud-JWT\Agenda-Crud-JWT.Model\bin\Release\netcoreapp3.1\Agenda-Crud-JWT.Model.deps.json
+C:\Users\hrami\Desktop\WorkShop - Solvex\Agenda-Crud-JWT\Agenda-Crud-JWT.Model\bin\Release\netcoreapp3.1\Agenda-Crud-JWT.Model.runtimeconfig.json
+C:\Users\hrami\Desktop\WorkShop - Solvex\Agenda-Crud-JWT\Agenda-Crud-JWT.Model\bin\Release\netcoreapp3.1\Agenda-Crud-JWT.Model.runtimeconfig.dev.json
+C:\Users\hrami\Desktop\WorkShop - Solvex\Agenda-Crud-JWT\Agenda-Crud-JWT.Model\bin\Release\netcoreapp3.1\Agenda-Crud-JWT.Model.dll
+C:\Users\hrami\Desktop\WorkShop - Solvex\Agenda-Crud-JWT\Agenda-Crud-JWT.Model\bin\Release\netcoreapp3.1\Agenda-Crud-JWT.Model.pdb
+C:\Users\hrami\Desktop\WorkShop - Solvex\Agenda-Crud-JWT\Agenda-Crud-JWT.Model\bin\Release\netcoreapp3.1\Agenda-Crud-JWT.Core.dll
+C:\Users\hrami\Desktop\WorkShop - Solvex\Agenda-Crud-JWT\Agenda-Crud-JWT.Model\bin\Release\netcoreapp3.1\Agenda-Crud-JWT.Core.pdb
+C:\Users\hrami\Desktop\WorkShop - Solvex\Agenda-Crud-JWT\Agenda-Crud-JWT.Model\obj\Release\netcoreapp3.1\Agenda-Crud-JWT.Model.csproj.AssemblyReference.cache
+C:\Users\hrami\Desktop\WorkShop - Solvex\Agenda-Crud-JWT\Agenda-Crud-JWT.Model\obj\Release\netcoreapp3.1\Agenda-Crud-JWT.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrami\Desktop\WorkShop - Solvex\Agenda-Crud-JWT\Agenda-Crud-JWT.Model\obj\Release\netcoreapp3.1\Agenda-Crud-JWT.Model.AssemblyInfoInputs.cache
+C:\Users\hrami\Desktop\WorkShop - Solvex\Agenda-Crud-JWT\Agenda-Crud-JWT.Model\obj\Release\netcoreapp3.1\Agenda-Crud-JWT.Model.AssemblyInfo.cs
+C:\Users\hrami\Desktop\WorkShop - Solvex\Agenda-Crud-JWT\Agenda-Crud-JWT.Model\obj\Release\netcoreapp3.1\Agenda-Crud-JWT.Model.csproj.CoreCompileInputs.cache
+C:\Users\hrami\Desktop\WorkShop - Solvex\Agenda-Crud-JWT\Agenda-Crud-JWT.Model\obj\Release\netcoreapp3.1\Agenda-Crud-JWT.Model.csproj.CopyComplete
+C:\Users\hrami\Desktop\WorkShop - Solvex\Agenda-Crud-JWT\Agenda-Crud-JWT.Model\obj\Release\netcoreapp3.1\Agenda-Crud-JWT.Model.dll
+C:\Users\hrami\Desktop\WorkShop - Solvex\Agenda-Crud-JWT\Agenda-Crud-JWT.Model\obj\Release\netcoreapp3.1\Agenda-Crud-JWT.Model.pdb
+C:\Users\hrami\Desktop\WorkShop - Solvex\Agenda-Crud-JWT\Agenda-Crud-JWT.Model\obj\Release\netcoreapp3.1\Agenda-Crud-JWT.Model.genruntimeconfig.cache
