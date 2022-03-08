@@ -38,7 +38,7 @@ namespace Agenda_Crud_JWT.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Create(TDto dto)
+        public virtual async Task<IActionResult> Create(TDto dto)
         {
             var dtoAdded = await _baseService.Create(dto);
 

@@ -7,6 +7,7 @@ namespace Agenda_Crud_JWT.Model.Entities
 {
     public class Event : BaseEntity
     {
+        public string Name { get; set; }
         public DateTime Date { get; set; }
         public bool Completed { get; set; } = false;
 

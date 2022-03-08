@@ -4,8 +4,9 @@ using System.Text;
 
 namespace Agenda_Crud_JWT.Bl.Dto
 {
-    public class BaseDto
+    public class ReminderDto : BaseDto
     {
-        public int Id { get; set; }
+        public int EventId { get; set; }
+        public int UserId { get; set; }
     }
 }

@@ -4,8 +4,9 @@ using System.Text;
 
 namespace Agenda_Crud_JWT.Model.Entities
 {
-    public interface IBaseEntity
+    public class Reminder : BaseEntity
     {
-        public int Id { get; set; }
+        public int EventId { get; set; }
+        public int UserId { get; set; }
     }
 }

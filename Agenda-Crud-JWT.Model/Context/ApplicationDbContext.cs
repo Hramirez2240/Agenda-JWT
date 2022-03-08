@@ -19,6 +19,7 @@ namespace Agenda_Crud_JWT.Model.Context
 
         public DbSet<User> Users { get; set; }
         public DbSet<Event> Events { get; set; }
+        public DbSet<Reminder> Reminders { get; set; }
 
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

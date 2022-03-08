@@ -13,9 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Agenda-Crud-JWT.Bl", "Agend
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Agenda-Crud-JWT.Core", "Agenda-Crud-JWT.Core\Agenda-Crud-JWT.Core.csproj", "{E03F29E2-21A9-4D4D-942A-4A6BBB8F1601}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlertEvent", "AlertEvent\AlertEvent.csproj", "{ECC38A82-00AD-4B5D-B65C-EF1034708379}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agenda-Crud-JWT.Tests", "Agenda-Crud-JWT.Tests\Agenda-Crud-JWT.Tests.csproj", "{28F5CD94-F9DB-4FA9-A0B0-B0E1E69D29E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Agenda-Crud-JWT.Tests", "Agenda-Crud-JWT.Tests\Agenda-Crud-JWT.Tests.csproj", "{28F5CD94-F9DB-4FA9-A0B0-B0E1E69D29E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -43,10 +41,6 @@ Global
 		{E03F29E2-21A9-4D4D-942A-4A6BBB8F1601}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E03F29E2-21A9-4D4D-942A-4A6BBB8F1601}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E03F29E2-21A9-4D4D-942A-4A6BBB8F1601}.Release|Any CPU.Build.0 = Release|Any CPU
-		{ECC38A82-00AD-4B5D-B65C-EF1034708379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{ECC38A82-00AD-4B5D-B65C-EF1034708379}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{ECC38A82-00AD-4B5D-B65C-EF1034708379}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{ECC38A82-00AD-4B5D-B65C-EF1034708379}.Release|Any CPU.Build.0 = Release|Any CPU
 		{28F5CD94-F9DB-4FA9-A0B0-B0E1E69D29E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{28F5CD94-F9DB-4FA9-A0B0-B0E1E69D29E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28F5CD94-F9DB-4FA9-A0B0-B0E1E69D29E4}.Release|Any CPU.ActiveCfg = Release|Any CPU

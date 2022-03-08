@@ -6,31 +6,31 @@ edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <EncryptedPassword />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA18trHg0FSEGxaCozoTG6lgAAAAACAAAAAAAQZgAAAAEAACAAAADkFPBod7BqswrVGjrgNvz7xsaeYDX4MqPw+O1wXl/aQAAAAAAOgAAAAAIAACAAAAC2qwk5Z6/d7sFFGXyUUkX4LvXH1gbS/y9H6T7T8zbRI4AAAAB34+iYLB4X8Z5a0+SP0VmcwpUeTtX/a77yXuBRhLZtw2IB45zy6MNJaHuJSFt+oyow2WoiLcQcZLc8UdsLrSWjnYnpB+LzqpFhGbNHF4B+XPCRcK7/sf2M6V4A3wsBoMqoJ7RKW6qB+AVNTJ1wFm3zRQ/TvAFZpBWRD4ydAPkSikAAAAAhp5ohTGf1kl+yxs+fRoLNGG3sQq3xU19NugNmx3o0Weln3NFlUlK6KyZC8Mml0XLyV8AszZi9knrO9B7wc2g4</EncryptedPassword>
     <_PublishTargetUrl>ftp://waws-prod-bn1-147.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
-    <History>True|2022-02-15T19:38:27.7694728Z;False|2022-02-15T15:33:11.1478368-04:00;False|2022-02-15T15:31:13.8174396-04:00;False|2022-02-15T15:29:57.5549765-04:00;False|2022-02-15T15:29:44.7009948-04:00;True|2022-02-15T11:12:43.9749562-04:00;False|2022-02-15T11:08:20.9121008-04:00;False|2022-02-15T11:03:33.3578633-04:00;</History>
+    <History>True|2022-02-25T15:23:41.1010105Z;False|2022-02-25T11:20:21.8298844-04:00;True|2022-02-24T23:52:01.3156812-04:00;False|2022-02-24T23:48:21.5018911-04:00;True|2022-02-24T23:25:57.3057321-04:00;False|2022-02-24T23:21:59.9747480-04:00;True|2022-02-24T22:59:28.3890871-04:00;True|2022-02-24T22:24:20.9800692-04:00;True|2022-02-15T15:38:27.7694728-04:00;False|2022-02-15T15:33:11.1478368-04:00;False|2022-02-15T15:31:13.8174396-04:00;False|2022-02-15T15:29:57.5549765-04:00;False|2022-02-15T15:29:44.7009948-04:00;True|2022-02-15T11:12:43.9749562-04:00;False|2022-02-15T11:08:20.9121008-04:00;False|2022-02-15T11:03:33.3578633-04:00;</History>
   </PropertyGroup>
   <ItemGroup>
     <File Include="Agenda-Crud-JWT.Api.deps.json">
-      <publishTime>02/15/2022 15:35:10</publishTime>
+      <publishTime>02/25/2022 11:20:41</publishTime>
     </File>
     <File Include="Agenda-Crud-JWT.Api.dll">
-      <publishTime>02/15/2022 15:35:09</publishTime>
+      <publishTime>02/25/2022 11:20:41</publishTime>
     </File>
     <File Include="Agenda-Crud-JWT.Api.exe">
-      <publishTime>02/15/2022 15:35:09</publishTime>
+      <publishTime>02/25/2022 11:20:41</publishTime>
     </File>
     <File Include="Agenda-Crud-JWT.Api.pdb">
-      <publishTime>02/15/2022 15:35:09</publishTime>
+      <publishTime>02/25/2022 11:20:41</publishTime>
     </File>
     <File Include="Agenda-Crud-JWT.Api.runtimeconfig.json">
       <publishTime>02/15/2022 01:34:02</publishTime>
     </File>
     <File Include="Agenda-Crud-JWT.Bl.dll">
-      <publishTime>02/15/2022 15:29:43</publishTime>
+      <publishTime>02/24/2022 22:20:56</publishTime>
     </File>
     <File Include="Agenda-Crud-JWT.Bl.pdb">
-      <publishTime>02/15/2022 15:29:43</publishTime>
+      <publishTime>02/24/2022 22:20:56</publishTime>
     </File>
     <File Include="Agenda-Crud-JWT.Core.dll">
       <publishTime>02/15/2022 01:33:59</publishTime>
@@ -39,22 +39,22 @@ edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 
       <publishTime>02/15/2022 01:33:59</publishTime>
     </File>
     <File Include="Agenda-Crud-JWT.Model.dll">
-      <publishTime>02/15/2022 15:29:42</publishTime>
+      <publishTime>02/24/2022 22:20:56</publishTime>
     </File>
     <File Include="Agenda-Crud-JWT.Model.pdb">
-      <publishTime>02/15/2022 15:29:42</publishTime>
+      <publishTime>02/24/2022 22:20:56</publishTime>
     </File>
     <File Include="Agenda-Crud-JWT.Services.dll">
-      <publishTime>02/15/2022 15:33:02</publishTime>
+      <publishTime>02/24/2022 22:20:57</publishTime>
     </File>
     <File Include="Agenda-Crud-JWT.Services.pdb">
-      <publishTime>02/15/2022 15:33:02</publishTime>
+      <publishTime>02/24/2022 22:20:57</publishTime>
     </File>
     <File Include="appsettings.Development.json">
       <publishTime>02/10/2022 23:30:36</publishTime>
     </File>
     <File Include="appsettings.json">
-      <publishTime>02/14/2022 21:50:59</publishTime>
+      <publishTime>02/16/2022 13:25:42</publishTime>
     </File>
     <File Include="AutoMapper.dll">
       <publishTime>02/04/2022 11:28:52</publishTime>
@@ -84,7 +84,7 @@ edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 
       <publishTime>05/15/2020 19:07:32</publishTime>
     </File>
     <File Include="Microsoft.Data.Sqlite.dll">
-      <publishTime>11/22/2021 14:28:00</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Microsoft.DotNet.PlatformAbstractions.dll">
       <publishTime>06/17/2020 00:37:52</publishTime>
@@ -135,7 +135,7 @@ edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 
       <publishTime>11/21/2021 23:04:18</publishTime>
     </File>
     <File Include="Microsoft.Extensions.Options.dll">
-      <publishTime>10/22/2021 19:50:00</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Microsoft.Extensions.Primitives.dll">
       <publishTime>10/22/2021 19:50:40</publishTime>
@@ -204,19 +204,19 @@ edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 
       <publishTime>08/17/2020 10:38:42</publishTime>
     </File>
     <File Include="runtimes/win-arm64/native/sni.dll">
-      <publishTime>07/12/2017 07:24:24</publishTime>
+      <publishTime>12/07/2017 07:24:24</publishTime>
     </File>
     <File Include="runtimes/win-x64/native/e_sqlite3.dll">
       <publishTime>08/17/2020 10:38:20</publishTime>
     </File>
     <File Include="runtimes/win-x64/native/sni.dll">
-      <publishTime>07/12/2017 07:24:22</publishTime>
+      <publishTime>12/07/2017 07:24:22</publishTime>
     </File>
     <File Include="runtimes/win-x86/native/e_sqlite3.dll">
       <publishTime>08/17/2020 10:38:10</publishTime>
     </File>
     <File Include="runtimes/win-x86/native/sni.dll">
-      <publishTime>07/12/2017 07:24:22</publishTime>
+      <publishTime>12/07/2017 07:24:22</publishTime>
     </File>
     <File Include="runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll">
       <publishTime>05/15/2018 09:29:40</publishTime>
@@ -228,16 +228,16 @@ edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 
       <publishTime>05/15/2018 09:29:44</publishTime>
     </File>
     <File Include="SQLitePCLRaw.batteries_v2.dll">
-      <publishTime>09/03/2020 13:13:26</publishTime>
+      <publishTime>03/09/2020 13:13:26</publishTime>
     </File>
     <File Include="SQLitePCLRaw.core.dll">
-      <publishTime>09/03/2020 13:13:04</publishTime>
+      <publishTime>03/09/2020 13:13:04</publishTime>
     </File>
     <File Include="SQLitePCLRaw.nativelibrary.dll">
-      <publishTime>09/03/2020 13:13:02</publishTime>
+      <publishTime>03/09/2020 13:13:02</publishTime>
     </File>
     <File Include="SQLitePCLRaw.provider.dynamic_cdecl.dll">
-      <publishTime>09/03/2020 13:13:18</publishTime>
+      <publishTime>03/09/2020 13:13:18</publishTime>
     </File>
     <File Include="Swashbuckle.AspNetCore.Swagger.dll">
       <publishTime>09/23/2020 08:47:20</publishTime>
@@ -273,7 +273,7 @@ edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 
       <publishTime>04/14/2020 18:49:30</publishTime>
     </File>
     <File Include="web.config">
-      <publishTime>02/15/2022 15:35:10</publishTime>
+      <publishTime>02/25/2022 11:20:41</publishTime>
     </File>
   </ItemGroup>
 </Project>

@@ -18,20 +18,36 @@ namespace Agenda_Crud_JWT.Controllers
     public class LoginController : ControllerBase
     {
         private readonly IJWTAuthenticationManager _iJWTAuthenticationManager;
-        public LoginController(IJWTAuthenticationManager iJWTAuthenticationManager)
+        private readonly IApplicationDbContext _applicationDbContext;
+
+        public LoginController(IJWTAuthenticationManager iJWTAuthenticationManager, IApplicationDbContext applicationDbContext)
         {
             _iJWTAuthenticationManager = iJWTAuthenticationManager;
+            _applicationDbContext = applicationDbContext;
         }
 
         [AllowAnonymous]
         [HttpPost]
         public IActionResult Authenticate([FromBody] Login login)
         {
-            var token = _iJWTAuthenticationManager.Authenticate(login.Email, login.Password);
+            var session_id = _applicationDbContext.GetDbSet<User>()
+                .Where(x => x.Email == login.Email)
+                .Select(x => x.Id).FirstOrDefault();
+
+            var token = _iJWTAuthenticationManager.Authenticate(session_id, login.Email, login.Password);
 
             if (token is null) { return Unauthorized(); }
 
             return Ok(token);
+        }
+
+        [Authorize]
+        [HttpGet]
+        public string Prueba()
+        {
+            var id = User.Identity.Name;
+
+            return id;
         }
     }
 }

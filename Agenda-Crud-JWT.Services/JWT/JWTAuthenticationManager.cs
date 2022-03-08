@@ -19,7 +19,7 @@ namespace Agenda_Crud_JWT.Services.JWT
             _applicationDbContext = applicationDbContext;
         }
 
-        public string Authenticate(string email, string password)
+        public string Authenticate(int session_id, string email, string password)
         {
 
             var items = _applicationDbContext.GetDbSet<User>().Select(x => new
@@ -41,7 +41,7 @@ namespace Agenda_Crud_JWT.Services.JWT
             {
                 Subject = new ClaimsIdentity(new Claim[]
                 {
-                    new Claim(ClaimTypes.Name, email)
+                    new Claim(ClaimTypes.Name, session_id.ToString())
                 }),
 
                 Expires = DateTime.UtcNow.AddMinutes(30),

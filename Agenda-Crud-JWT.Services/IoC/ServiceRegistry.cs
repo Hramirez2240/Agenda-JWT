@@ -12,6 +12,7 @@ namespace Agenda_Crud_JWT.Services.IoC
         {
             services.AddTransient<IEventService, EventService>();
             services.AddTransient<IUserService, UserService>();
+            services.AddTransient<IReminderService, ReminderService>();
             services.AddScoped<IJWTAuthenticationManager, JWTAuthenticationManager>();
         }
     }

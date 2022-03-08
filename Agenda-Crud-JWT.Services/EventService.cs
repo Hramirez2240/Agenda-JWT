@@ -19,6 +19,7 @@ namespace Agenda_Crud_JWT.Services
 
     public class EventService : BaseService<Event, EventDto>, IEventService
     {
+
         public EventService(IApplicationDbContext context, IMapper mapper) : base(context, mapper)
         {
 
@@ -71,6 +72,7 @@ namespace Agenda_Crud_JWT.Services
             await _context.SaveChangesAsync();
 
             return _mapper.Map(entity, dto);
+
         }
     }
 }

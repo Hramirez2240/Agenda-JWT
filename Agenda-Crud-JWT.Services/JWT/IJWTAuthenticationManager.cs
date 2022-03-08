@@ -6,6 +6,6 @@ namespace Agenda_Crud_JWT.Services.JWT
 {
     public interface IJWTAuthenticationManager
     {
-        string Authenticate(string email, string password);
+        string Authenticate(int session_id, string email, string password);
     }
 }
