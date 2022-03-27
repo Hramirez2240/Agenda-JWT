@@ -1,0 +1,15 @@
+C:\Users\hrami\Desktop\WorkShop - Solvex\Agenda-Crud-JWT\Agenda-Crud-JWT.Bl\bin\Debug\netcoreapp3.1\Agenda-Crud-JWT.Bl.deps.json
+C:\Users\hrami\Desktop\WorkShop - Solvex\Agenda-Crud-JWT\Agenda-Crud-JWT.Bl\bin\Debug\netcoreapp3.1\Agenda-Crud-JWT.Bl.dll
+C:\Users\hrami\Desktop\WorkShop - Solvex\Agenda-Crud-JWT\Agenda-Crud-JWT.Bl\bin\Debug\netcoreapp3.1\Agenda-Crud-JWT.Bl.pdb
+C:\Users\hrami\Desktop\WorkShop - Solvex\Agenda-Crud-JWT\Agenda-Crud-JWT.Bl\bin\Debug\netcoreapp3.1\Agenda-Crud-JWT.Core.dll
+C:\Users\hrami\Desktop\WorkShop - Solvex\Agenda-Crud-JWT\Agenda-Crud-JWT.Bl\bin\Debug\netcoreapp3.1\Agenda-Crud-JWT.Model.dll
+C:\Users\hrami\Desktop\WorkShop - Solvex\Agenda-Crud-JWT\Agenda-Crud-JWT.Bl\bin\Debug\netcoreapp3.1\Agenda-Crud-JWT.Core.pdb
+C:\Users\hrami\Desktop\WorkShop - Solvex\Agenda-Crud-JWT\Agenda-Crud-JWT.Bl\bin\Debug\netcoreapp3.1\Agenda-Crud-JWT.Model.pdb
+C:\Users\hrami\Desktop\WorkShop - Solvex\Agenda-Crud-JWT\Agenda-Crud-JWT.Bl\obj\Debug\netcoreapp3.1\Agenda-Crud-JWT.Bl.csproj.AssemblyReference.cache
+C:\Users\hrami\Desktop\WorkShop - Solvex\Agenda-Crud-JWT\Agenda-Crud-JWT.Bl\obj\Debug\netcoreapp3.1\Agenda-Crud-JWT.Bl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrami\Desktop\WorkShop - Solvex\Agenda-Crud-JWT\Agenda-Crud-JWT.Bl\obj\Debug\netcoreapp3.1\Agenda-Crud-JWT.Bl.AssemblyInfoInputs.cache
+C:\Users\hrami\Desktop\WorkShop - Solvex\Agenda-Crud-JWT\Agenda-Crud-JWT.Bl\obj\Debug\netcoreapp3.1\Agenda-Crud-JWT.Bl.AssemblyInfo.cs
+C:\Users\hrami\Desktop\WorkShop - Solvex\Agenda-Crud-JWT\Agenda-Crud-JWT.Bl\obj\Debug\netcoreapp3.1\Agenda-Crud-JWT.Bl.csproj.CoreCompileInputs.cache
+C:\Users\hrami\Desktop\WorkShop - Solvex\Agenda-Crud-JWT\Agenda-Crud-JWT.Bl\obj\Debug\netcoreapp3.1\Agenda-Crud-JWT.Bl.csproj.CopyComplete
+C:\Users\hrami\Desktop\WorkShop - Solvex\Agenda-Crud-JWT\Agenda-Crud-JWT.Bl\obj\Debug\netcoreapp3.1\Agenda-Crud-JWT.Bl.dll
+C:\Users\hrami\Desktop\WorkShop - Solvex\Agenda-Crud-JWT\Agenda-Crud-JWT.Bl\obj\Debug\netcoreapp3.1\Agenda-Crud-JWT.Bl.pdb

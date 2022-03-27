@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Md/OcxspWSTP563echz7uyssZUi7BclwpJ+nUkvu/1ntDdHm1Xef5gU40ohBC9BJpSO9AwMnc3OjRwJPZ2Zwvw==",
+  "dgSpecHash": "v9jOo11C3FMXHGckWbsoCHYY4wCVslDYRt9XQeFv9V7GmhU7ybBdfvx1hCLDwMe+2cXz1MF/ygutIKwBiZysSQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hrami\\Desktop\\WorkShop - Solvex\\Agenda-Crud-JWT\\Agenda-Crud-JWT.Bl\\Agenda-Crud-JWT.Bl.csproj",
+  "projectFilePath": "C:\\Users\\hrami\\Desktop\\Solvex\\WorkShop - Solvex\\Agenda-Crud-JWT\\Agenda-Crud-JWT.Bl\\Agenda-Crud-JWT.Bl.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hrami\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\hrami\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CUF/EX1bgKdMpEXLDOR0Lg2Ykh5Q3RNWPjo9mb4aRtllybQ1esr0mYuiTHJTCM6VeelTmTLpXv9nd0Jh26OJow==",
+  "dgSpecHash": "04q0CVmvA/2OFnzTyj3p/uyMrJ36C9MGabhIULc64AgZdBLn5VO+l2VnhjWSPtrolApqLAVOElRu7kQdXjwlLg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hrami\\Desktop\\WorkShop - Solvex\\Agenda-Crud-JWT\\Agenda-Crud-JWT\\Agenda-Crud-JWT.Api.csproj",
+  "projectFilePath": "C:\\Users\\hrami\\Desktop\\Solvex\\WorkShop - Solvex\\Agenda-Crud-JWT\\Agenda-Crud-JWT\\Agenda-Crud-JWT.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hrami\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\hrami\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

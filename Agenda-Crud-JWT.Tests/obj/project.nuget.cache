@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JvPcCPl9JK8BGY04EjmrHOuvSjTgVdZPNzJbScZ4/CWP13v8oK0pqN78+0wvBLIp9kQPhgf5lP+4NwK8hZxEIw==",
+  "dgSpecHash": "GjXswELWQOYixUS+wxg4g0orFjbthrdVNwx43QhrjVwiBP1BBAFNwo8xPsOrXdJMDwrUpGv4BVEplcGjX1w4DA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hrami\\Desktop\\WorkShop - Solvex\\Agenda-Crud-JWT\\Agenda-Crud-JWT.Tests\\Agenda-Crud-JWT.Tests.csproj",
+  "projectFilePath": "C:\\Users\\hrami\\Desktop\\Solvex\\WorkShop - Solvex\\Agenda-Crud-JWT\\Agenda-Crud-JWT.Tests\\Agenda-Crud-JWT.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hrami\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\hrami\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",

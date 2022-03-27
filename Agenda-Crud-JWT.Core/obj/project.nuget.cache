@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SAZD4VG9Mu8siFh/Wm86LMgqLh3jGyvj3HX093h4NyDuzR1i74mIt7bWg9fBhyxCaoyef2aavFRr/dxu7ProXg==",
+  "dgSpecHash": "uzbDWcE/ZMU3psImgPBAMVBU4YjEBJdzI+R58Ec7K1SsA+ys5jE94xLJuG6KBH0Kf7xdA7EZIMwbMMXMjPYbxg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hrami\\Desktop\\WorkShop - Solvex\\Agenda-Crud-JWT\\Agenda-Crud-JWT.Core\\Agenda-Crud-JWT.Core.csproj",
+  "projectFilePath": "C:\\Users\\hrami\\Desktop\\Solvex\\WorkShop - Solvex\\Agenda-Crud-JWT\\Agenda-Crud-JWT.Core\\Agenda-Crud-JWT.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hrami\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.22\\microsoft.extensions.dependencyinjection.3.1.22.nupkg.sha512",
     "C:\\Users\\hrami\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.22\\microsoft.extensions.dependencyinjection.abstractions.3.1.22.nupkg.sha512"

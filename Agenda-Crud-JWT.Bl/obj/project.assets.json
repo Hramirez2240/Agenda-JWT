@@ -6137,11 +6137,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hrami\\Desktop\\WorkShop - Solvex\\Agenda-Crud-JWT\\Agenda-Crud-JWT.Bl\\Agenda-Crud-JWT.Bl.csproj",
+      "projectUniqueName": "C:\\Users\\hrami\\Desktop\\Solvex\\WorkShop - Solvex\\Agenda-Crud-JWT\\Agenda-Crud-JWT.Bl\\Agenda-Crud-JWT.Bl.csproj",
       "projectName": "Agenda-Crud-JWT.Bl",
-      "projectPath": "C:\\Users\\hrami\\Desktop\\WorkShop - Solvex\\Agenda-Crud-JWT\\Agenda-Crud-JWT.Bl\\Agenda-Crud-JWT.Bl.csproj",
+      "projectPath": "C:\\Users\\hrami\\Desktop\\Solvex\\WorkShop - Solvex\\Agenda-Crud-JWT\\Agenda-Crud-JWT.Bl\\Agenda-Crud-JWT.Bl.csproj",
       "packagesPath": "C:\\Users\\hrami\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hrami\\Desktop\\WorkShop - Solvex\\Agenda-Crud-JWT\\Agenda-Crud-JWT.Bl\\obj\\",
+      "outputPath": "C:\\Users\\hrami\\Desktop\\Solvex\\WorkShop - Solvex\\Agenda-Crud-JWT\\Agenda-Crud-JWT.Bl\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hrami\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6152,17 +6152,18 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://solvexdominicana.pkgs.visualstudio.com/_packaging/SolvexLibraries%40Local/nuget/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\hrami\\Desktop\\WorkShop - Solvex\\Agenda-Crud-JWT\\Agenda-Crud-JWT.Core\\Agenda-Crud-JWT.Core.csproj": {
-              "projectPath": "C:\\Users\\hrami\\Desktop\\WorkShop - Solvex\\Agenda-Crud-JWT\\Agenda-Crud-JWT.Core\\Agenda-Crud-JWT.Core.csproj"
+            "C:\\Users\\hrami\\Desktop\\Solvex\\WorkShop - Solvex\\Agenda-Crud-JWT\\Agenda-Crud-JWT.Core\\Agenda-Crud-JWT.Core.csproj": {
+              "projectPath": "C:\\Users\\hrami\\Desktop\\Solvex\\WorkShop - Solvex\\Agenda-Crud-JWT\\Agenda-Crud-JWT.Core\\Agenda-Crud-JWT.Core.csproj"
             },
-            "C:\\Users\\hrami\\Desktop\\WorkShop - Solvex\\Agenda-Crud-JWT\\Agenda-Crud-JWT.Model\\Agenda-Crud-JWT.Model.csproj": {
-              "projectPath": "C:\\Users\\hrami\\Desktop\\WorkShop - Solvex\\Agenda-Crud-JWT\\Agenda-Crud-JWT.Model\\Agenda-Crud-JWT.Model.csproj"
+            "C:\\Users\\hrami\\Desktop\\Solvex\\WorkShop - Solvex\\Agenda-Crud-JWT\\Agenda-Crud-JWT.Model\\Agenda-Crud-JWT.Model.csproj": {
+              "projectPath": "C:\\Users\\hrami\\Desktop\\Solvex\\WorkShop - Solvex\\Agenda-Crud-JWT\\Agenda-Crud-JWT.Model\\Agenda-Crud-JWT.Model.csproj"
             }
           }
         }
